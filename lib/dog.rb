@@ -5,9 +5,9 @@ def bark
   puts "Woof"
 end
 
-def sit
-  puts "The dog is sitting"
-end
+# def sit
+#   puts "The dog is sitting"
+# end
 
-fido = Dog.new
-fido.bark
+# fido = Dog.new
+# fido.bark
